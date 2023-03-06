@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ivnsharif
-- 👀 I’m interested in data analysis 
+- 👋 Hi, I’m @Kazi_Abdulla
+- 👀 I’m interested in data analysis and data science 
 - 🌱 I’m currently learning Google data analysis 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
